@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+/resources/samePayersInBothArticles.csv
+/resources/differentNumberOfPayersArticles.csv
+/resources/sameNumberDifferentPayersArticles.csv
+/resources/noPayersSpacyArticles.csv
+/.idea/
+/out/
+/.gradle/
